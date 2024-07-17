@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\telefonkönyv\telefonkönyv\bin\Debug\telefonkönyv.exe.config
+C:\Users\User\Desktop\telefonkönyv\telefonkönyv\bin\Debug\telefonkönyv.exe
+C:\Users\User\Desktop\telefonkönyv\telefonkönyv\bin\Debug\telefonkönyv.pdb
+C:\Users\User\Desktop\telefonkönyv\telefonkönyv\obj\Debug\telefonkönyv.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\telefonkönyv\telefonkönyv\obj\Debug\telefonkönyv.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\telefonkönyv\telefonkönyv\obj\Debug\telefonkönyv.exe
+C:\Users\User\Desktop\telefonkönyv\telefonkönyv\obj\Debug\telefonkönyv.pdb
